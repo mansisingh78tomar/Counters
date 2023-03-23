@@ -1,0 +1,13 @@
+body{
+    background: linear-gradient(to right, #23c5e2, #747272);
+    
+}
+.container {
+    text-align: center;
+    margin-top: 10rem;
+}
+
+ .counter-mch{
+    color: #fff;
+    
+}
